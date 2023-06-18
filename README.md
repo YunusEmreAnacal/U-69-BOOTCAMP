@@ -29,7 +29,7 @@ Hikaye anlatımı severler
 12 - 30 yaş arası oyuncular
 
 ## Product Backlog URL
-[Unity Team 69 Trello Backlog Board] 
+[Unity Team 69 Trello Backlog Board](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/sprint1%20product%20bakclog.png)
 
 # Sprint 1
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
