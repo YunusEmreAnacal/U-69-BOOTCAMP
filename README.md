@@ -17,16 +17,16 @@ Team-U-69
 Project 69 oyunumuz macera türünde 3D bir oyun olacak. Oyunumuz PC platformu için çıkacak. İçerisinde çeşitli mekaniklerle birlikte göze hoş duran level tasarımları olacak. Çarpıcı ve etkili hikayesiyle oyuncuları kendisine hayran bırakacak. 
 
 ## Ürün Özellikleri
-3D Third Person Macera Oyunu
-PC platformu için
-Çarpıcı bir hikaye anlatımı
-Diyaloglarla hikaye desteği
-Farklı ve özgün mekanikler 
+- 3D Third Person Macera Oyunu
+- PC platformu için
+- Çarpıcı bir hikaye anlatımı
+- Diyaloglarla hikaye desteği
+- Farklı ve özgün mekanikler 
 
 ## Hedef Kitle
-Macera türü seven oyuncular
-Hikaye anlatımı severler
-12 - 30 yaş arası oyuncular
+- Macera türü seven oyuncular
+- Zengin hikaye anlatımı severler
+- Bilgisayar platformu oyuncuları
 
 ## Product Backlog URL
 [Unity Team 69 Trello Backlog Board](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/sprint1%20product%20bakclog.png)
