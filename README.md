@@ -33,7 +33,7 @@ Project 69 oyunumuz macera türünde 3D bir oyun olacak. Oyunumuz PC platformu i
 
 
 # Sprint 1
-- **Sprint notları**: Product Backlog Trello'dan yapılmıştır.
+- **Sprint notları**: Product Backlog Miro'dan yapılmıştır.
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi. Puan tamamlama yöntemi olarak Fibonacci sayı dizisi kullanıldı.
 Konu ve Hikaye Belirleme: 34 puan
