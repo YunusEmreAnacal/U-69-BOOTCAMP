@@ -50,7 +50,7 @@ Oyun Dünyası ve Karakterler: 5 puan
    - **Daily Scrum**: Daily Scrum toplantıları discord üzerinden gerçekleşmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 1 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/DailyScrumMeetingNotesSprint1.docx)
 
 - **Sprint board update**: Sprint board screenshotları:
- ![Screenshot Board]
+ ![Screenshot Board](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/board.PNG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
  ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/screenshot.jpg)
