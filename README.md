@@ -29,7 +29,7 @@ Project 69 oyunumuz macera türünde 3D bir oyun olacak. Oyunumuz PC platformu i
 - Bilgisayar platformu oyuncuları
 
 ## Product Backlog URL
-[Unity Team 69 Trello Backlog Board](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/sprint1%20product%20bakclog.png)
+[Unity Team U-69 Backlog Board](https://miro.com/app/board/uXjVM99NVmw=/)
 
 # Sprint 1
 - **Sprint notları**: Product Backlog Trello'dan yapılmıştır.
@@ -46,7 +46,7 @@ Oyun Dünyası ve Karakterler: 5 puan
 
 
 
-   - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 1 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/daily%20scrum.png)
+   - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 1 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/DailyScrumMeetingNotesSprint1.docx)
 
 - **Sprint board update**: Sprint board screenshotları:
 
