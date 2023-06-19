@@ -52,10 +52,11 @@ Oyun Dünyası ve Karakterler: 5 puan
 
 - **Ürün Durumu**: Ekran görüntüleri:
  ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/screenshot.jpg)
-  
+ ![Screenshot 2](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/screenshot2.jpg)
+
 - **Sprint Review**:
 Konu ve hikaye belirleme, oyun mekaniği kararları, grafik ve ses tasarımı gibi hedeflerimize ulaşmak için çalıştık. Görev dağılımı ve iletişim süreci etkin bir şekilde yönetildi. Genel olarak, sprint başarıyla tamamlandı ve gelecek sprintlerde yapılacak iyileştirmeler için konuştuk.
 
-  - **Sprint Retrospective**:
+- **Sprint Retrospective**:
   Proje ile ilgili iyileştirmeler hakkında konuştuk. Şu an için zamanı iyi kullanıyoruz.
     
