@@ -31,6 +31,7 @@ Project 69 oyunumuz macera türünde 3D bir oyun olacak. Oyunumuz PC platformu i
 ## Product Backlog URL
 [Unity Team U-69 Backlog Board](https://miro.com/app/board/uXjVM99NVmw=/)
 
+
 # Sprint 1
 - **Sprint notları**: Product Backlog Trello'dan yapılmıştır.
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
@@ -49,6 +50,7 @@ Oyun Dünyası ve Karakterler: 5 puan
    - **Daily Scrum**: Daily Scrum toplantıları discord üzerinden gerçekleşmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 1 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/DailyScrumMeetingNotesSprint1.docx)
 
 - **Sprint board update**: Sprint board screenshotları:
+ ![Screenshot Board]
 
 - **Ürün Durumu**: Ekran görüntüleri:
  ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/screenshot.jpg)
