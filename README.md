@@ -54,5 +54,7 @@ Oyun Dünyası ve Karakterler: 5 puan
   
 - **Sprint Review**:
 Konu ve hikaye belirleme, oyun mekaniği kararları, grafik ve ses tasarımı gibi hedeflerimize ulaşmak için çalıştık. Görev dağılımı ve iletişim süreci etkin bir şekilde yönetildi. Genel olarak, sprint başarıyla tamamlandı ve gelecek sprintlerde yapılacak iyileştirmeler için konuştuk.
-  
+
+  - **Sprint Retrospective**:
+  Proje ile ilgili iyileştirmeler hakkında konuştuk. Şu an için zamanı iyi kullanıyoruz.
     
