@@ -44,12 +44,13 @@ Oyun Dünyası ve Karakterler: 5 puan
 
 
 
+
    - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 1 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/daily%20scrum.png)
 
 - **Sprint board update**: Sprint board screenshotları:
 
 - **Ürün Durumu**: Ekran görüntüleri:
-
+ ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/screenshot.jpg)
   
 - **Sprint Review**:
 Konu ve hikaye belirleme, oyun mekaniği kararları, grafik ve ses tasarımı gibi hedeflerimize ulaşmak için çalıştık. Görev dağılımı ve iletişim süreci etkin bir şekilde yönetildi. Genel olarak, sprint başarıyla tamamlandı ve gelecek sprintlerde yapılacak iyileştirmeler için konuştuk.
