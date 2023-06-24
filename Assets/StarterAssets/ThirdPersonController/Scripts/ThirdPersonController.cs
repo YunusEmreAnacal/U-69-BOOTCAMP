@@ -14,6 +14,9 @@ namespace StarterAssets
 #endif
     public class ThirdPersonController : MonoBehaviour
     {
+        public StarterAssetsInputs iMan;
+        Vector2 moveInput;
+
         [Header("Player")]
         [Tooltip("Move speed of the character in m/s")]
         public float MoveSpeed = 2.0f;
@@ -74,6 +77,11 @@ namespace StarterAssets
 
         [Tooltip("For locking the camera position on all axis")]
         public bool LockCameraPosition = false;
+
+
+        //Crouch
+        [SerializeField] bool isCrouch;
+
 
         // cinemachine
         private float _cinemachineTargetYaw;
@@ -144,6 +152,7 @@ namespace StarterAssets
 #else
 			Debug.LogError( "Starter Assets package is missing dependencies. Please use Tools/Starter Assets/Reinstall Dependencies to fix it");
 #endif
+            iMan.crouch = KeyCode.C;
 
             AssignAnimationIDs();
 
@@ -154,11 +163,17 @@ namespace StarterAssets
 
         private void Update()
         {
+            moveInput.x = Input.GetAxis("Horizontal");
+            moveInput.y = Input.GetAxis("Vertical");
+
+            _animator.SetFloat("Inputx", moveInput.x);
+            _animator.SetFloat("Inputy", moveInput.y);
             _hasAnimator = TryGetComponent(out _animator);
 
             JumpAndGravity();
             GroundedCheck();
             Move();
+            Crouch(iMan.crouch);
         }
 
         private void LateUpdate()
@@ -346,6 +361,19 @@ namespace StarterAssets
             {
                 _verticalVelocity += Gravity * Time.deltaTime;
             }
+        }   
+
+        public void Crouch(KeyCode button)
+        {
+            if (Input.GetKeyDown(button))
+            {
+                isCrouch = !isCrouch;
+            }
+            if (Input.GetKeyDown(button))
+            {
+                _animator.SetBool("Crouch",isCrouch);
+            }
+
         }
 
         private static float ClampAngle(float lfAngle, float lfMin, float lfMax)
