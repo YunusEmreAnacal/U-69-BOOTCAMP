@@ -106,6 +106,7 @@ namespace StarterAssets
         private int _animIDSpeed;
         private int _animIDGrounded;
         private int _animIDJump;
+        private int _animSecJump;
         private int _animIDFreeFall;
         private int _animIDMotionSpeed;
 
@@ -172,9 +173,12 @@ namespace StarterAssets
             _animator.SetFloat("Inputx", moveInput.x);
             _animator.SetFloat("Inputy", moveInput.y);
             _hasAnimator = TryGetComponent(out _animator);
+            if (isCrouch == false)
+            {
+                JumpAndGravity();
+                GroundedCheck();
+            }
             
-            JumpAndGravity();
-            GroundedCheck();
             Move();
             Crouch(iMan.crouch);
         }
@@ -189,6 +193,7 @@ namespace StarterAssets
             _animIDSpeed = Animator.StringToHash("Speed");
             _animIDGrounded = Animator.StringToHash("Grounded");
             _animIDJump = Animator.StringToHash("Jump");
+            _animSecJump = Animator.StringToHash("Jump2");
             _animIDFreeFall = Animator.StringToHash("FreeFall");
             _animIDMotionSpeed = Animator.StringToHash("MotionSpeed");
         }
@@ -325,7 +330,7 @@ namespace StarterAssets
                 {
                     // the square root of H * -2 * G = how much velocity needed to reach desired height
                     _verticalVelocity = Mathf.Sqrt(JumpHeight * -2f * Gravity);
-
+                    
                     // update animator if using character
                     if (_hasAnimator)
                     {
@@ -340,12 +345,32 @@ namespace StarterAssets
                 {
                     _jumpTimeoutDelta -= Time.deltaTime;
                 }
-               
+                jumpsRem = maxJumpCOunt;
+
             }
             else
             {
+
+                if (jumpsRem> 0 && Input.GetKeyDown(KeyCode.Space))
+                {
+                    _input.jump = true;
+                    // the square root of H * -2 * G = how much velocity needed to reach desired height
+                    _verticalVelocity = Mathf.Sqrt(JumpHeight * -4f * Gravity);
+
+                    // update animator if using character
+                    if (_hasAnimator)
+                    {
+                        _animator.SetBool(_animIDJump, true);
+                    }
+                    jumpsRem -= 2;
+                }
+                
+                    _input.jump = false;
+                    
+                
                 // reset the jump timeout timer
                 _jumpTimeoutDelta = JumpTimeout;
+
 
                 // fall timeout
                 if (_fallTimeoutDelta >= 0.0f)
@@ -364,7 +389,7 @@ namespace StarterAssets
                     
                 
                 // if we are not grounded, do not jump
-                _input.jump = false;
+                
             }
 
             // apply gravity over time if under terminal (multiply by delta time twice to linearly speed up over time)
