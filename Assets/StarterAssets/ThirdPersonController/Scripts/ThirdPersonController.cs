@@ -173,11 +173,10 @@ namespace StarterAssets
             _animator.SetFloat("Inputx", moveInput.x);
             _animator.SetFloat("Inputy", moveInput.y);
             _hasAnimator = TryGetComponent(out _animator);
-            if (isCrouch == false)
-            {
+            
                 JumpAndGravity();
                 GroundedCheck();
-            }
+            
             
             Move();
             Crouch(iMan.crouch);
