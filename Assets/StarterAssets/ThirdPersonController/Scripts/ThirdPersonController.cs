@@ -14,6 +14,9 @@ namespace StarterAssets
 #endif
     public class ThirdPersonController : MonoBehaviour
     {
+        public int maxJumpCOunt = 2;
+        public int jumpsRem = 0;
+
         public StarterAssetsInputs iMan;
         Vector2 moveInput;
 
@@ -169,7 +172,7 @@ namespace StarterAssets
             _animator.SetFloat("Inputx", moveInput.x);
             _animator.SetFloat("Inputy", moveInput.y);
             _hasAnimator = TryGetComponent(out _animator);
-
+            
             JumpAndGravity();
             GroundedCheck();
             Move();
@@ -203,6 +206,7 @@ namespace StarterAssets
             {
                 _animator.SetBool(_animIDGrounded, Grounded);
             }
+            
         }
 
         private void CameraRotation()
@@ -294,6 +298,8 @@ namespace StarterAssets
             }
         }
 
+        
+
         private void JumpAndGravity()
         {
             if (Grounded)
@@ -315,7 +321,7 @@ namespace StarterAssets
                 }
 
                 // Jump
-                if (_input.jump && _jumpTimeoutDelta <= 0.0f)
+                if (_input.jump && _jumpTimeoutDelta <= 0.0f )
                 {
                     // the square root of H * -2 * G = how much velocity needed to reach desired height
                     _verticalVelocity = Mathf.Sqrt(JumpHeight * -2f * Gravity);
@@ -325,6 +331,8 @@ namespace StarterAssets
                     {
                         _animator.SetBool(_animIDJump, true);
                     }
+                   
+                    
                 }
 
                 // jump timeout
@@ -332,6 +340,7 @@ namespace StarterAssets
                 {
                     _jumpTimeoutDelta -= Time.deltaTime;
                 }
+               
             }
             else
             {
@@ -351,7 +360,9 @@ namespace StarterAssets
                         _animator.SetBool(_animIDFreeFall, true);
                     }
                 }
-
+               
+                    
+                
                 // if we are not grounded, do not jump
                 _input.jump = false;
             }
