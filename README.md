@@ -79,3 +79,33 @@ Ses Tasarımı: 13 puan
 Oyun bulmacalarını oluşturma: 5 puan
 Diyalog sistemi: 21 puan
 
+
+## Product Backlog URL
+[Unity Team U-69 Backlog Board](https://miro.com/app/board/uXjVM99NVmw=/)
+![Backlog](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/backlog.PNG)
+![Product Backlog 2][https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/PRODUCT_BACKLOG.docx]
+
+   - **Daily Scrum**: Daily Scrum toplantıları discord üzerinden gerçekleşmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 1 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/DailyScrumMeetingNotesSprint1.docx)
+
+- **Sprint board update**: Sprint board screenshotları:
+ ![Screenshot Board](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/board.PNG)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+ ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/screenshot.jpg)
+ ![Screenshot 2](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/screenshot2.jpg)
+
+- **Sprint Review**:
+Takım olarak, sprint boyunca tamamlanan kullanıcı hikayelerini ve işleri inceledik. Bu işlerin kabul kriterlerine uygun olarak tamamlanıp tamamlanmadığı değerlendirdik.
+Sprint hedeflerine ne ölçüde ulaşıldığını, eğer hedeflere ulaşılamadıysa, nedenleri ve alınması gereken önlemleri tartıştık.
+Gelecek sprintler için gelişim fırsatlarını belirledik. Eksiklikler, problemler veya iyileştirmeler üzerinde çalışılması gereken konulara odaklandık. Karakter animasyonlarını yeniden düzenlemeye karar verdik. Mağara ve orman haritasında değişiklik yapacağız.
+Sonraki sprint için yeni kullanıcı hikayeleri ve işler belirledik. Öncelikler ve takvim üzerinde anlaşma sağladık.
+
+- **Sprint Retrospective**:
+Sprint boyunca gerçekleşen olayları ve çalışma sürecini takım olarak inceledik. İyi giden şeylerin ve sorunların neler olduğunu tartıştık.
+Takımın başarılarına odaklandık ve nelerin iyi gittiğini tanımladık. Başarılar, verimlilik artışı, işin kalitesi, takım işbirliği veya müşteri memnuniyeti gibi konuları kapsayabilir.
+İyileştirme alanlarını belirledik.  İyileştirme fırsatları, iletişim eksiklikleri, ekip dinamikleri veya teknik becerilerin geliştirilmesi konularını konuştuk.
+İyileştirme fırsatlarına yönelik aksiyon planları oluşturduk ve hangi adımların atılacağını, sorumluları ve takvimleri belirledik.
+Takım üyeleri, takımın çalışma şekli, işbirliği ve destek konusunda geri bildirimde bulundu. İletişim, iş yükü dağılımı, rol ve sorumluluklar gibi konular üzerinde odaklandık.
+
+
+
