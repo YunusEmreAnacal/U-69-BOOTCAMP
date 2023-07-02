@@ -92,7 +92,7 @@ Diyalog sistemi: 21 puan
  ![Screenshot Board](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/board.PNG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
- ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/screenshot.jpg)
+ ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint%202%20karakter.png)
  ![Screenshot 2](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/screenshot2.jpg)
 
 - **Sprint Review**:
