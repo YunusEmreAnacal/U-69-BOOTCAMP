@@ -63,4 +63,19 @@ Konu ve hikaye belirleme, oyun mekaniği kararları, grafik ve ses tasarımı gi
 
 - **Sprint Retrospective**:
   Proje ile ilgili iyileştirmeler hakkında konuştuk. Şu an için zamanı iyi kullanıyoruz.
-    
+
+
+
+    # Sprint 2
+- **Sprint notları**: Product Backlog Miro'dan yapılmıştır.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi. Puan tamamlama yöntemi olarak Fibonacci sayı dizisi kullanıldı.
+
+Karakterin eğilme, zıplama, oturma ve tırmanma (merdiven, ip, duvar) gibi hareketlerini gerçekleştirebilmesi için gerekli mekanikler uygulama: 34 puan
+Oyun Mekaniği Kararları: 13 puan
+Parkur sistemi, mağara ve orman haritası oluşturma: 21 puan
+Giriş ekranı ve karakter arayüzü tasarımı: 13 puan
+Ses Tasarımı: 13 puan
+Oyun bulmacalarını oluşturma: 5 puan
+Diyalog sistemi: 21 puan
+
