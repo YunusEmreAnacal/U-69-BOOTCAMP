@@ -85,7 +85,8 @@ Diyalog sistemi: 21 puan
 ![Backlog](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/Sprint%202%20product%20backlog.PNG)
 ![Product Backlog][https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/SPR%C4%B0NT%202%20Product%20Backlog.docx]
 
-   - **Daily Scrum**: Daily Scrum toplantıları discord üzerinden gerçekleşmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 2 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint.PNG)
+   - **Daily Scrum**: Daily Scrum toplantıları discord üzerinden gerçekleşmiştir. Aynı şehirde bulunan arkadaşlar olarak da beraber buluşarak çalışabilme avantajını kullanıyoruz. Bu yüzden aşağıdaki paylaşılan resimde katılımcı sayımız tam.
+Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.: ![Sprint 2 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint.PNG)
 
 - **Sprint board update**: Sprint board screenshotları:
  ![Screenshot Board](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/board.PNG)
