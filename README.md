@@ -82,7 +82,7 @@ Diyalog sistemi: 21 puan
 
 ## Product Backlog URL
 [Unity Team U-69 Backlog Board](https://miro.com/app/board/uXjVM99NVmw=/)
-![Backlog](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/backlog.PNG)
+![Backlog](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/Sprint%202%20product%20backlog.PNG)
 ![Product Backlog][https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/SPR%C4%B0NT%202%20Product%20Backlog.docx]
 
    - **Daily Scrum**: Daily Scrum toplantıları discord üzerinden gerçekleşmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Sprint 1 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/DailyScrumMeetingNotesSprint1.docx)
