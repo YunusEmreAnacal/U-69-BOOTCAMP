@@ -95,6 +95,7 @@ Diyalog sistemi: 21 puan
  ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint%202%20karakter.png)
  ![Screenshot 2](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint2%20karakter%20jump.png)
  ![Screenshot 3](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint2%20karakter.png)
+ ![Screenshot 4](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/ma%C4%9Fara.png)
 - **Sprint Review**:
 Takım olarak, sprint boyunca tamamlanan kullanıcı hikayelerini ve işleri inceledik. Bu işlerin kabul kriterlerine uygun olarak tamamlanıp tamamlanmadığı değerlendirdik.
 Sprint hedeflerine ne ölçüde ulaşıldığını, eğer hedeflere ulaşılamadıysa, nedenleri ve alınması gereken önlemleri tartıştık.
