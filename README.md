@@ -86,7 +86,7 @@ Diyalog sistemi: 21 puan
 
    - **Daily Scrum**: Daily Scrum toplantıları discord üzerinden gerçekleşmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
 ![Sprint 2 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint.PNG)
-
+[Sprint 2 Daily Scrum Dosyası](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint2%20dailyscrum.docx)
 - **Sprint board update**: Sprint board screenshotları:
  ![Screenshot Board 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/Sprint%202%20sprintboard.PNG)
  ![Screenshot Board 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/oyun%20hikayesi.PNG)
