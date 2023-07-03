@@ -88,7 +88,8 @@ Diyalog sistemi: 21 puan
 ![Sprint 2 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint.PNG)
 
 - **Sprint board update**: Sprint board screenshotları:
- ![Screenshot Board](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/Sprint%202%20sprintboard.PNG)
+ ![Screenshot Board 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/Sprint%202%20sprintboard.PNG)
+ ![Screenshot Board 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/oyun%20hikayesi.PNG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
  ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint%202%20karakter.png)
