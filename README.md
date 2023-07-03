@@ -67,7 +67,7 @@ Konu ve hikaye belirleme, oyun mekaniği kararları, grafik ve ses tasarımı gi
 
 
     # Sprint 2
-- **Sprint notları**: Product Backlog Miro'dan yapılmıştır.
+- **Sprint notları**: Miro'da oyunun hikayesi şemalaştırılarak  anlatılmıştır.
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi. Puan tamamlama yöntemi olarak Fibonacci sayı dizisi kullanıldı.
 
