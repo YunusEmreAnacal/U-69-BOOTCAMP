@@ -41,7 +41,7 @@ namespace Climbing
         private float endTime = 0.0f;
         private float rotTime = 0.0f;
         private float horizontalMovement = 0.0f;
-        private float smallHopMaxDistance = 0.35f; 
+        private float smallHopMaxDistance = 0.35f;
         private float distanceToLedgeBraced = 0.3f;
         private float distanceToLedgeFree = 0.1f;
 
@@ -206,7 +206,7 @@ namespace Climbing
                     {
                         //Find Target Point
                         target = ReachLedge(hit);
-                        targetRot = Quaternion.LookRotation(-hit.normal); 
+                        targetRot = Quaternion.LookRotation(-hit.normal);
                         transform.rotation = Quaternion.FromToRotation(transform.forward, hit.normal) * transform.rotation;//rotates towards ledge direction
 
                         //Check if Ledge is a Braced or FreeHand Point
@@ -246,7 +246,7 @@ namespace Climbing
             if (onLedge && characterController.dummy)
             {
                 //Movement on Ledge
-                ClimbMovement(characterController.characterInput.movement); 
+                ClimbMovement(characterController.characterInput.movement);
 
                 //Dismount from Ledge
                 if (characterController.characterInput.drop && characterController.characterInput.movement == Vector2.zero)
@@ -333,7 +333,7 @@ namespace Climbing
                     }
 
                     //If MatchTarget animation ends, reset default values
-                    if (characterAnimation.animator.IsInTransition(0)) 
+                    if (characterAnimation.animator.IsInTransition(0))
                     {
                         onLedge = true;
                         toLedge = false;
@@ -467,7 +467,7 @@ namespace Climbing
 
             Point point = null;
             float xDistance = 0;
-            
+
             if (horizontalMovement > 0 && reachedEnd)
                 point = curLedge.GetComponentInChildren<HandlePoints>().GetClosestPoint(rightHandPosition);
             else
@@ -642,7 +642,7 @@ namespace Climbing
             RaycastHit hit3;
             RaycastHit hit4;
 
-            Vector3 origin1 = LHand.transform.position + (transform.rotation * (curOriginGrabOffset + new Vector3(-0.18f,0,0)));
+            Vector3 origin1 = LHand.transform.position + (transform.rotation * (curOriginGrabOffset + new Vector3(-0.18f, 0, 0)));
             Vector3 origin2 = RHand.transform.position + (transform.rotation * (curOriginGrabOffset));
             origin1.y = transform.position.y + curOriginGrabOffset.y - 0.05f;
             origin2.y = origin1.y;
@@ -671,7 +671,8 @@ namespace Climbing
                     ret = true;
                 }
             }
-            if (characterController.characterDetection.ThrowHandRayToLedge(origin2, Vector3.forward, IKHandRayLength, out hit2)){
+            if (characterController.characterDetection.ThrowHandRayToLedge(origin2, Vector3.forward, IKHandRayLength, out hit2))
+            {
                 if (translation > 0)
                 {
                     curLedge = hit2.collider.transform.gameObject;
@@ -680,7 +681,7 @@ namespace Climbing
             }
 
             //Checks if Foot detects a wall to place the feet
-            if(curClimbState == ClimbState.BHanging)
+            if (curClimbState == ClimbState.BHanging)
             {
                 bool b1 = characterController.characterDetection.ThrowFootRayToLedge(origin3, Vector3.forward, IKFootRayLength + 0.1f, out hit3);
                 bool b2 = characterController.characterDetection.ThrowFootRayToLedge(origin4, Vector3.forward, IKFootRayLength + 0.1f, out hit4);
@@ -713,7 +714,7 @@ namespace Climbing
 
                 float raylength = (curClimbState == ClimbState.BHanging) ? distanceToLedgeBraced + 0.2f : distanceToLedgeFree + 0.12f;
 
-                if(debug)
+                if (debug)
                     Debug.DrawLine(origin, origin + -tangent * (raylength), Color.cyan);
 
                 RaycastHit hit;
