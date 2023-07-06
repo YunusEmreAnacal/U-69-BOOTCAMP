@@ -9,7 +9,7 @@ public class HealthBarController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        FallDamageScript.can = 100;
+        FallDamageScript.can = 200;
         healthSlider.maxValue = FallDamageScript.can; 
         healthSlider.value = FallDamageScript.can; 
     }

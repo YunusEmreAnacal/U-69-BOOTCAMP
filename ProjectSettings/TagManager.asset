@@ -9,6 +9,8 @@ TagManager:
   - Slide
   - Reach
   - Ledge
+  - CinemachineTarget
+  - Ground
   layers:
   - Default
   - TransparentFX
