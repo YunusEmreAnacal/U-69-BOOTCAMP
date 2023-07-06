@@ -98,11 +98,7 @@ namespace Climbing
 
         private void FixedUpdate()
         {
-            //Limits player movement to avoid falling
-            if (controller.isGrounded)
-            {
-                limitMovement = CheckBoundaries();
-            }
+
 
             //Apply Player Movement
             if (!controller.dummy)
