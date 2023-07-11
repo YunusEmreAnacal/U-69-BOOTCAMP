@@ -106,6 +106,47 @@ Sonraki sprint için yeni kullanıcı hikayeleri ve işler belirledik. Öncelikl
 Sprint boyunca gerçekleşen olayları ve çalışma sürecini takım olarak inceledik. İyi giden şeylerin ve sorunların neler olduğunu tartıştık.
 Takımın başarılarına odaklandık ve nelerin iyi gittiğini tanımladık. Başarılar, verimlilik artışı, işin kalitesi, takım işbirliği veya müşteri memnuniyeti gibi konuları kapsayabilir.
 İyileştirme alanlarını belirledik.  İyileştirme fırsatları, iletişim eksiklikleri, ekip dinamikleri veya teknik becerilerin geliştirilmesi konularını konuştuk.
+
+    # Sprint 3
+- **Sprint notları**: Miro'da oyunun hikayesi şemalaştırılarak  anlatılmıştır.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi. Puan tamamlama yöntemi olarak Fibonacci sayı dizisi kullanıldı.
+
+Karakterin animasyonlarının geliştirilmesi: 34 puan
+Ses tasarımının iyileştirilmesi: 13 puan
+Yeni bulmaca mekaniklerinin eklenmesi: 21 puan
+Oyunun son bölümünün tasarımı ve implementasyonu: 21 puan
+Optimizasyonlar ve hata düzeltmeleri ve : 13 puan
+Oyun bulmacalarını oluşturma: 5 puan
+Diyalog sistemi: 13 puan
+
+
+## Product Backlog URL
+[Unity Team U-69 Backlog Board](https://miro.com/app/board/uXjVM99NVmw=/)
+![Product Backlog](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/SPR%C4%B0NT%202%20Product%20Backlog.docx)
+
+   - **Daily Scrum**: Daily Scrum toplantıları discord üzerinden gerçekleşmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
+![Sprint 2 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint.PNG)
+[Sprint 2 Daily Scrum Dosyası](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint2%20dailyscrum.docx)
+- **Sprint board update**: Sprint board screenshotları:
+ ![Screenshot Board 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/Sprint%202%20sprintboard.PNG)
+ ![Screenshot Board 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/oyun%20hikayesi.PNG)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+ ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint%202%20karakter.png)
+ ![Screenshot 2](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint2%20karakter%20jump.png)
+ ![Screenshot 3](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint2%20karakter.png)
+ ![Screenshot 4](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/ma%C4%9Fara.png)
+- **Sprint Review**:
+Takım olarak, sprint boyunca tamamlanan kullanıcı hikayelerini ve işleri inceledik. Bu işlerin kabul kriterlerine uygun olarak tamamlanıp tamamlanmadığı değerlendirdik.
+Sprint hedeflerine ne ölçüde ulaşıldığını, eğer hedeflere ulaşılamadıysa, nedenleri ve alınması gereken önlemleri tartıştık.
+Gelecek sprintler için gelişim fırsatlarını belirledik. Eksiklikler, problemler veya iyileştirmeler üzerinde çalışılması gereken konulara odaklandık. Level tasarımını kararlaştırdık. Diyalog sisteminin hikayesini oluşturup tasarımını yapacağız.
+Sonraki sprint için yeni kullanıcı hikayeleri ve işler belirledik. Öncelikler ve takvim üzerinde anlaşma sağladık.
+
+- **Sprint Retrospective**:
+Sprint boyunca gerçekleşen olayları ve çalışma sürecini takım olarak inceledik. İyi giden şeylerin ve sorunların neler olduğunu tartıştık.
+Takımın başarılarına odaklandık ve nelerin iyi gittiğini tanımladık. Başarılar, verimlilik artışı, işin kalitesi, takım işbirliği veya müşteri memnuniyeti gibi konuları kapsayabilir.
+İyileştirme alanlarını belirledik.  İyileştirme fırsatları, iletişim eksiklikleri, ekip dinamikleri veya teknik becerilerin geliştirilmesi konularını konuştuk.
 İyileştirme fırsatlarına yönelik aksiyon planları oluşturduk ve hangi adımların atılacağını, sorumluları ve takvimleri belirledik.
 Takım üyeleri, takımın çalışma şekli, işbirliği ve destek konusunda geri bildirimde bulundu. İletişim, iş yükü dağılımı, rol ve sorumluluklar gibi konular üzerinde odaklandık.
 
