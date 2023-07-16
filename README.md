@@ -147,6 +147,6 @@ Takımın başarılarına odaklandık ve nelerin iyi gittiğini tanımladık. Ba
 İyileştirme fırsatlarına yönelik aksiyon planlarını oluşturmamızdaki faydayı ve attığımız adımların değerlendirmesini yaptık.
 Takım üyeleri, takımın çalışma şekli, işbirliği ve destek konusunda geri bildirimde bulundu. 
 
-Ekip ruhunu bu kadar kısa sürede yakaladığımız için kendimizi çok şanslı hissediyoruz. Ekipte herkes ileri düzeyde oyun geliştirme bilmese de bilmese de hepimizin oyuna kattığı bir şeyler oldu. Birbirimize destek olduk ve bildiklerimizi paylaştık. Oyunu hedeflediğimiz şekilde tamamladık. Bu başarıyı kutlamayı hak ettik. 
+Ekip ruhunu bu kadar kısa sürede yakaladığımız için kendimizi çok şanslı hissediyoruz. Ekipte herkes ileri düzeyde oyun geliştirme bilmese de bilmese de hepimizin oyuna kattığı bir şeyler oldu. Birbirimize destek olduk ve bildiklerimizi paylaştık. Oyunu hedeflediğimiz şekilde tamamladık. Bu başarıyı kutladık. 
 
 
