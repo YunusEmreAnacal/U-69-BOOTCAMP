@@ -129,7 +129,7 @@ Diyalog sistemi: 13 puan
 ![Sprint 3 Daily Scrum Chats](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/ss%20sprint3.PNG)
 [Sprint 3 Daily Scrum Dosyası](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/sprint3%20dailyscrum.docx)
 - **Sprint board update**: Sprint board screenshotları:
- ![Screenshot Board 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/Sprint%202%20sprintboard.PNG)
+ ![Screenshot Board 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/sprint%203%20backlog.PNG)
  ![Screenshot Board 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/oyun%20hikayesi.PNG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
