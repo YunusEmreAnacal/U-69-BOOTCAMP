@@ -138,17 +138,15 @@ Diyalog sistemi: 13 puan
  ![Screenshot 3](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint2%20karakter.png)
  ![Screenshot 4](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/ma%C4%9Fara.png)
 - **Sprint Review**:
-Takım olarak, sprint boyunca tamamlanan kullanıcı hikayelerini ve işleri inceledik. Bu işlerin kabul kriterlerine uygun olarak tamamlanıp tamamlanmadığı değerlendirdik.
-Sprint hedeflerine ne ölçüde ulaşıldığını, eğer hedeflere ulaşılamadıysa, nedenleri ve alınması gereken önlemleri tartıştık.
-Gelecek sprintler için gelişim fırsatlarını belirledik. Eksiklikler, problemler veya iyileştirmeler üzerinde çalışılması gereken konulara odaklandık. Level tasarımını kararlaştırdık. Diyalog sisteminin hikayesini oluşturup tasarımını yapacağız.
-Sonraki sprint için yeni kullanıcı hikayeleri ve işler belirledik. Öncelikler ve takvim üzerinde anlaşma sağladık.
+Sprint süresince, "Echoes of Time" oyun projesi tamamlanmıştır. Bu sprint review toplantısı, projenin genel performansını değerlendirmek ve proje kapanışını gerçekleştirmek için düzenlenmektedir.Ekip üyeleri yoğun bir çalışma gerçekleştirerek oyunun hedeflere ulaşmasını sağlamıştır. "Echoes of Time" oyun projesi, sprint süresince belirlenen hedeflere ulaşmıştır. Bu sprint review toplantısıyla birlikte proje kapanışını da gerçekleştirmiş olduk. Ekip olarak, bu projede harcadığımız emeği ve çabayı takdir ediyoruz.
 
 - **Sprint Retrospective**:
 Sprint boyunca gerçekleşen olayları ve çalışma sürecini takım olarak inceledik. İyi giden şeylerin ve sorunların neler olduğunu tartıştık.
-Takımın başarılarına odaklandık ve nelerin iyi gittiğini tanımladık. Başarılar, verimlilik artışı, işin kalitesi, takım işbirliği veya müşteri memnuniyeti gibi konuları kapsayabilir.
-İyileştirme alanlarını belirledik.  İyileştirme fırsatları, iletişim eksiklikleri, ekip dinamikleri veya teknik becerilerin geliştirilmesi konularını konuştuk.
-İyileştirme fırsatlarına yönelik aksiyon planları oluşturduk ve hangi adımların atılacağını, sorumluları ve takvimleri belirledik.
-Takım üyeleri, takımın çalışma şekli, işbirliği ve destek konusunda geri bildirimde bulundu. İletişim, iş yükü dağılımı, rol ve sorumluluklar gibi konular üzerinde odaklandık.
+Takımın başarılarına odaklandık ve nelerin iyi gittiğini tanımladık. Başarılar, verimlilik artışı, işin kalitesi, takım işbirliği konularını yorumladık.
 
+İyileştirme fırsatlarına yönelik aksiyon planlarını oluşturmamızdaki faydayı ve attığımız adımların değerlendirmesini yaptık.
+Takım üyeleri, takımın çalışma şekli, işbirliği ve destek konusunda geri bildirimde bulundu. 
+
+Ekip ruhunu bu kadar kısa sürede yakaladığımız için kendimizi çok şanslı hissediyoruz. Ekipte herkes ileri düzeyde oyun geliştirme bilmese de bilmese de hepimizin oyuna kattığı bir şeyler oldu. Birbirimize destek olduk ve bildiklerimizi paylaştık. Oyunu hedeflediğimiz şekilde tamamladık. Bu başarıyı kutlamayı hak ettik. 
 
 
