@@ -30,8 +30,8 @@ Project 69 oyunumuz macera türünde 3D bir oyun olacak. Oyunumuz PC platformu i
 
 ## Product Backlog URL
 [Unity Team U-69 Backlog Board](https://miro.com/app/board/uXjVM99NVmw=/)
-![Backlog](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/backlog.PNG)
-![Product Backlog 2][https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/PRODUCT_BACKLOG.docx]
+![Sprint 3 Backlog](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments1/backlog.PNG)
+![Sprint 3 Product Backlog ][https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/SPR%C4%B0NT%203%20Product%20Backlog.docx]
 
 
 # Sprint 1
