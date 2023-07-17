@@ -146,6 +146,6 @@ Takımın başarılarına odaklandık ve nelerin iyi gittiğini tanımladık. Ba
 İyileştirme fırsatlarına yönelik aksiyon planlarını oluşturmamızdaki faydayı ve attığımız adımların değerlendirmesini yaptık.
 Takım üyeleri, takımın çalışma şekli, işbirliği ve destek konusunda geri bildirimde bulundu. 
 Ekip ruhunu bu kadar kısa sürede yakaladığımız için kendimizi çok şanslı hissediyoruz. Ekipte herkes ileri düzeyde oyun geliştirme bilmese de bilmese de hepimizin oyuna kattığı bir şeyler oldu. Birbirimize destek olduk ve bildiklerimizi paylaştık. Oyunu hedeflediğimiz şekilde tamamladık. Bu başarıyı kutladık.
-[Sprint 3 Raporu](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/sprint3%20dailyscrum.docx)
+[Sprint 3 Raporu](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/SPR%C4%B0NT%203%20RAPORU.docx)
 
 
