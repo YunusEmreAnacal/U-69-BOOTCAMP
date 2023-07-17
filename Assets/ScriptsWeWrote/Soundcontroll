@@ -1,0 +1,54 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Soundcontroll : MonoBehaviour
+{
+
+    public AudioSource source;
+
+    public AudioClip ayakses;
+    public AudioClip dusmeses;
+    public AudioClip parkuratlamases;
+    public AudioClip tirmanmases;
+    public AudioClip nefesses;
+    public AudioClip kaymases;
+
+    void ayaksesi()
+    {
+        source.clip = ayakses;
+        source.Play();
+    }
+
+    void dusmesesi()
+    {
+        source.clip = dusmeses;
+        source.Play();
+    }
+
+    void parkuratlamasesi()
+    {
+        source.clip = parkuratlamases;
+        source.Play();
+    }
+
+    void tirmanmasesi()
+    {
+        source.clip = tirmanmases;
+        source.Play();
+    }
+
+    void nefessesi()
+    {
+        source.clip = nefesses;
+        source.Play();
+    }
+
+    void kaymasesi()
+    {
+        source.clip = kaymases;
+        source.Play();
+    }
+
+
+}
