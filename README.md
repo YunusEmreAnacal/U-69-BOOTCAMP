@@ -11,7 +11,7 @@ Team-U-69
 - Kemal Akkurt: Team Member/Developer
 
 ## Ürün İsmi
---Echoes Of Time--
+--Zaman Kırılması--
 
 ## Ürün Açıklaması
 Project 69 oyunumuz macera türünde 3D bir oyun olacak. Oyunumuz PC platformu için çıkacak. İçerisinde çeşitli mekaniklerle birlikte göze hoş duran level tasarımları olacak. Çarpıcı ve etkili hikayesiyle oyuncuları kendisine hayran bırakacak. 
@@ -138,7 +138,7 @@ Diyalog sistemi: 13 puan
  ![Screenshot 3](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/product%203.jpg)
  ![Screenshot 4](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/product%204.jpg)
 - **Sprint Review**:
-Sprint süresince, "Echoes of Time" oyun projesi tamamlanmıştır. Bu sprint review toplantısı, projenin genel performansını değerlendirmek ve proje kapanışını gerçekleştirmek için düzenlenmektedir.Ekip üyeleri yoğun bir çalışma gerçekleştirerek oyunun hedeflere ulaşmasını sağlamıştır. "Echoes of Time" oyun projesi, sprint süresince belirlenen hedeflere ulaşmıştır. Bu sprint review toplantısıyla birlikte proje kapanışını da gerçekleştirmiş olduk. Ekip olarak, bu projede harcadığımız emeği ve çabayı takdir ediyoruz.
+Sprint süresince, "Zaman Kırılması" oyun projesi tamamlanmıştır. Bu sprint review toplantısı, projenin genel performansını değerlendirmek ve proje kapanışını gerçekleştirmek için düzenlenmektedir.Ekip üyeleri yoğun bir çalışma gerçekleştirerek oyunun hedeflere ulaşmasını sağlamıştır. "Zaman Kırılması" oyun projesi, sprint süresince belirlenen hedeflere ulaşmıştır. Bu sprint review toplantısıyla birlikte proje kapanışını da gerçekleştirmiş olduk. Ekip olarak, bu projede harcadığımız emeği ve çabayı takdir ediyoruz.
 
 - **Sprint Retrospective**:
 Sprint boyunca gerçekleşen olayları ve çalışma sürecini takım olarak inceledik. İyi giden şeylerin ve sorunların neler olduğunu tartıştık.
