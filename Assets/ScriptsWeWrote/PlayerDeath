@@ -1,0 +1,19 @@
+using UnityEngine;
+
+public class PlayerDeath : MonoBehaviour
+{
+    private DeathBehaviour deathBehaviour;
+
+    private void Start()
+    {
+        deathBehaviour = GetComponent<DeathBehaviour>();
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("DeathZone"))
+        {
+            deathBehaviour.Die();
+        }
+    }
+}
