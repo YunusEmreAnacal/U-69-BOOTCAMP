@@ -1,0 +1,23 @@
+using UnityEngine;
+using UnityEngine.Playables;
+
+public class TimelineCompleteListener : MonoBehaviour
+{
+    public PlayableDirector playableDirector;
+    public string nextSceneName;
+
+    private void Start()
+    {
+        playableDirector.stopped += OnTimelineComplete;
+    }
+
+    private void OnTimelineComplete(PlayableDirector director)
+    {
+        LoadNextScene();
+    }
+
+    private void LoadNextScene()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene(nextSceneName);
+    }
+}
