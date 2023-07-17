@@ -1,0 +1,32 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class Triggers : MonoBehaviour
+{
+    public GameObject playercontrol;
+    public GameObject cutcontrol;
+    void Start()
+    {
+        cutcontrol.SetActive(false);
+    }
+
+    private void OnTriggerEnter(Collider collider)
+    {
+        if(this.gameObject.tag == "Trigger1")
+        {
+            this.gameObject.GetComponent<BoxCollider>().enabled = false;
+            cutcontrol.SetActive(true);
+            playercontrol.SetActive(false);
+            StartCoroutine(CameraSeconds());
+        }
+    }
+
+    IEnumerator CameraSeconds()
+    {
+        yield return new WaitForSeconds(12f);
+        playercontrol.SetActive(true);
+        cutcontrol.SetActive(false);
+    }
+}
