@@ -143,10 +143,8 @@ Sprint süresince, "Echoes of Time" oyun projesi tamamlanmıştır. Bu sprint re
 - **Sprint Retrospective**:
 Sprint boyunca gerçekleşen olayları ve çalışma sürecini takım olarak inceledik. İyi giden şeylerin ve sorunların neler olduğunu tartıştık.
 Takımın başarılarına odaklandık ve nelerin iyi gittiğini tanımladık. Başarılar, verimlilik artışı, işin kalitesi, takım işbirliği konularını yorumladık.
-
 İyileştirme fırsatlarına yönelik aksiyon planlarını oluşturmamızdaki faydayı ve attığımız adımların değerlendirmesini yaptık.
 Takım üyeleri, takımın çalışma şekli, işbirliği ve destek konusunda geri bildirimde bulundu. 
-
 Ekip ruhunu bu kadar kısa sürede yakaladığımız için kendimizi çok şanslı hissediyoruz. Ekipte herkes ileri düzeyde oyun geliştirme bilmese de bilmese de hepimizin oyuna kattığı bir şeyler oldu. Birbirimize destek olduk ve bildiklerimizi paylaştık. Oyunu hedeflediğimiz şekilde tamamladık. Bu başarıyı kutladık. 
 
 
