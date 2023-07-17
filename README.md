@@ -133,10 +133,10 @@ Diyalog sistemi: 13 puan
  ![Screenshot Board 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/oyun%20hikayesi.PNG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
- ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint%202%20karakter.png)
- ![Screenshot 2](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint2%20karakter%20jump.png)
- ![Screenshot 3](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/sprint2%20karakter.png)
- ![Screenshot 4](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments2/ma%C4%9Fara.png)
+ ![Screenshot 1](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/product%201.jpg)
+ ![Screenshot 2](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/product%202.jpg)
+ ![Screenshot 3](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/product%203.jpg)
+ ![Screenshot 4](https://github.com/YunusEmreAnacal/U-69-BOOTCAMP/blob/main/blob/ProjectManagement/SprintDocuments3/product%204.jpg)
 - **Sprint Review**:
 Sprint süresince, "Echoes of Time" oyun projesi tamamlanmıştır. Bu sprint review toplantısı, projenin genel performansını değerlendirmek ve proje kapanışını gerçekleştirmek için düzenlenmektedir.Ekip üyeleri yoğun bir çalışma gerçekleştirerek oyunun hedeflere ulaşmasını sağlamıştır. "Echoes of Time" oyun projesi, sprint süresince belirlenen hedeflere ulaşmıştır. Bu sprint review toplantısıyla birlikte proje kapanışını da gerçekleştirmiş olduk. Ekip olarak, bu projede harcadığımız emeği ve çabayı takdir ediyoruz.
 
